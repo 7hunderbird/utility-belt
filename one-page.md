@@ -22,6 +22,18 @@ These are **Major Cloud** providers that are used with BOSH.
 
 ## Credhub
 
+### Code
+
+* [Source Code](https://github.com/cloudfoundry-incubator/credhub)
+
+### Guides
+
+* [HOWTO Install BOSH with Credhub](https://github.com/pivotal-cf/credhub-release/blob/master/docs/bosh-install-with-credhub.md)
+
+* [HOWTO Install credhub-cli](https://github.com/cloudfoundry-incubator/credhub-cli#installing-the-cli)
+
+### References
+
 * [API and CLI Reference](https://credhub-api.cfapps.io)
-* [bosh.io release spec](https://bosh.io/releases/github.com/pivotal-cf/credhub-release)
-* [repo/docs](https://github.com/cloudfoundry-incubator/credhub/tree/master/docs)
+* [Credhub Source Code Documentation](https://github.com/cloudfoundry-incubator/credhub/tree/master/docs)
+* [bosh.io Credhub Release Specification](https://bosh.io/releases/github.com/pivotal-cf/credhub-release)
