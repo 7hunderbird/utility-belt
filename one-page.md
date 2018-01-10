@@ -19,3 +19,9 @@ These are **Major Cloud** providers that are used with BOSH.
 ### Book
 
 * [The Terraform Book](https://terraformbook.com) by James Turnbull
+
+## Credhub
+
+* [API and CLI Reference](https://credhub-api.cfapps.io)
+* [bosh.io release spec](https://bosh.io/releases/github.com/pivotal-cf/credhub-release)
+* [repo/docs](https://github.com/cloudfoundry-incubator/credhub/tree/master/docs)
