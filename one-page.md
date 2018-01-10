@@ -35,5 +35,21 @@ These are **Major Cloud** providers that are used with BOSH.
 ### References
 
 * [API and CLI Reference](https://credhub-api.cfapps.io)
-* [Credhub Source Code Documentation](https://github.com/cloudfoundry-incubator/credhub/tree/master/docs)
-* [bosh.io Credhub Release Specification](https://bosh.io/releases/github.com/pivotal-cf/credhub-release)
+* [Source Code Documentation](https://github.com/cloudfoundry-incubator/credhub/tree/master/docs)
+* [Release Specification](https://bosh.io/releases/github.com/pivotal-cf/credhub-release)
+
+## UAA
+
+### Code
+
+* [Source Code](https://github.com/cloudfoundry/uaa)
+
+### Guides
+
+* [HOWTO Integrate LDAP with UAA](https://github.com/cloudfoundry/uaa/blob/master/docs/UAA-LDAP.md)
+
+### References
+
+* [API Reference](http://docs.cloudfoundry.org/api/uaa/version/4.8.0/index.html#overview)
+* [Source Code Documentation](https://github.com/cloudfoundry/uaa/tree/master/docs)
+* [Release Specification](https://bosh.io/releases/github.com/cloudfoundry/uaa-release)
