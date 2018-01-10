@@ -1,3 +1,22 @@
+## Cloud Foundry
+
+### Domains
+
+These domains are for the Pivotal Application Service.
+
+```
+  *.system.example.com
+  *.apps.example.com
+```
+
+These domains are for Spring Cloud Services and/or User Account and Authentication.
+
+```  
+  *.login.system.example.com
+  *.uaa.system.example.com
+
+```
+
 ## Terraform
 
 * [code repo](https://github.com/hashicorp/terraform)
