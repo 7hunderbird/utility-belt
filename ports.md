@@ -1,13 +1,12 @@
 ## BOSH
 
+       22 - ssh
      6868 - bosh-agent
+     8443 - UAA API (User Account and Authentication)
+     8844 - Credhub API
     25555 - bosh-director
 
 ## Prometheus
-
-What uses ports?
-
-The **core components**, **exporters**, **adopters**, **webhooks**, use ports.
 
 ### Core components
 
